@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, specially Ruby and Javascript
 - 🌱 I’m currently learning DevOps stuff
 - 💞️ I’m looking to collaborate on teaching developers from minorities in tech
-- 📫 Reach me at sarahraqueld@gmail.com
+- 📫 Reach me at @sarahraquelsh on twitter
 
 <!---
 sarahraqueld/sarahraqueld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
