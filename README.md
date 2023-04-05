@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarah!
-- 👀 I’m interested in Web development, specially with Ruby and Javascript
+- 👀 I’m a Software Developer working specially with Ruby and Javascript
 - 🌱 I’m currently learning DevOps stuff
 - 💞️ I’m looking to collaborate on teaching developers from minorities in tech
 - 📫 Reach me at @sarahraquelsh on twitter
